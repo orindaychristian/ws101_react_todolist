@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//orindaychristian.github.io/ws101-react-todolist/static/css/main.6ab5f5fc.css",
-    "main.js": "/https//orindaychristian.github.io/ws101-react-todolist/static/js/main.bfb462f4.js",
-    "static/js/453.ffbcad76.chunk.js": "/https//orindaychristian.github.io/ws101-react-todolist/static/js/453.ffbcad76.chunk.js",
-    "index.html": "/https//orindaychristian.github.io/ws101-react-todolist/index.html",
-    "main.6ab5f5fc.css.map": "/https//orindaychristian.github.io/ws101-react-todolist/static/css/main.6ab5f5fc.css.map",
-    "main.bfb462f4.js.map": "/https//orindaychristian.github.io/ws101-react-todolist/static/js/main.bfb462f4.js.map",
-    "453.ffbcad76.chunk.js.map": "/https//orindaychristian.github.io/ws101-react-todolist/static/js/453.ffbcad76.chunk.js.map"
+    "main.css": "/ws101_react_todolist/static/css/main.6ab5f5fc.css",
+    "main.js": "/ws101_react_todolist/static/js/main.87bd9d2f.js",
+    "static/js/453.ffbcad76.chunk.js": "/ws101_react_todolist/static/js/453.ffbcad76.chunk.js",
+    "index.html": "/ws101_react_todolist/index.html",
+    "main.6ab5f5fc.css.map": "/ws101_react_todolist/static/css/main.6ab5f5fc.css.map",
+    "main.87bd9d2f.js.map": "/ws101_react_todolist/static/js/main.87bd9d2f.js.map",
+    "453.ffbcad76.chunk.js.map": "/ws101_react_todolist/static/js/453.ffbcad76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab5f5fc.css",
-    "static/js/main.bfb462f4.js"
+    "static/js/main.87bd9d2f.js"
   ]
 }
